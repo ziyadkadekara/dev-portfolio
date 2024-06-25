@@ -3,8 +3,8 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
-Web developer
+Ziyad Kadekara
+Entreprenuer | Full Stack Developer
 
 Show Contacts
 
