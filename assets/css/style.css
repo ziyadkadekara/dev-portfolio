@@ -812,6 +812,21 @@ main {
 /*-----------------------------------*\
   #RESUME
 \*-----------------------------------*/
+.resume-header {
+  display: flex;
+  align-items: center;
+}
+
+.resume-header .article-title {
+  display: flex;
+  align-items: center;
+}
+
+.download-icon {
+  margin-left: 10px; /* Adjust spacing as needed */
+  font-size: 1.5em; /* Adjust icon size as needed */
+}
+
 
 .article-title {
   margin-bottom: 30px;
